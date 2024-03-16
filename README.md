@@ -22,19 +22,22 @@ This weather app interface offers a seamless user experience by presenting real-
    ```sh
   https://github.com/AyeshaAshfaq22/Weather-Application.git
 
-
-2. Install API 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ## Weather Applaction |  SnapShots
+
 ### 1.Landing Page:
+![image](https://github.com/AyeshaAshfaq22/Weather-Application/assets/158320332/2bbb8699-571e-4399-bf91-63f32bd1890c)
 
 
 ### 2.Location Searches:
 
+![image](https://github.com/AyeshaAshfaq22/Weather-Application/assets/158320332/66e79a26-7573-4bd2-8677-b87ae07c1383)
+
+
+![image](https://github.com/AyeshaAshfaq22/Weather-Application/assets/158320332/17626a9f-e68c-405c-9560-cb4d850c07e2)
 
 
 
