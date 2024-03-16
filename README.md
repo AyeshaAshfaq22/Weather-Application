@@ -19,7 +19,8 @@ This weather app interface offers a seamless user experience by presenting real-
 ## Weather Applaction | Setup Instructions 
 
 1. Clone This Repository
-   ```sh  https://github.com/AyeshaAshfaq22/Weather-Application.git
+   ```sh
+   https://github.com/AyeshaAshfaq22/Weather-Application.git
  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
