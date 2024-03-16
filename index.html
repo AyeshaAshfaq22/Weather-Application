@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="left-section">
+            <div id="weatherTitle">WEATHER</div>
+            <div id="temperature"></div>
+            <div id="city"></div><br>
+            <div id="datetime"></div><br> 
+        </div>
+        <div class="right-section">
+            <div class="search-container">
+                <input type="text" id="searchInput" placeholder="Search location.." style="font-size: 18px; ;padding: 10px; width: 90%;"> 
+                <button id="searchIcon" onclick="searchWeather()">
+                    <i class="fas fa-search"></i> 
+                </button>
+            </div>
+            <div id="weatherDetails" class="weather-details">
+                <h2>Weather Details</h2>
+                <div id="details"></div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
