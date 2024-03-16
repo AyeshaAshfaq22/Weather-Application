@@ -5,6 +5,7 @@ body, html {
     overflow: hidden;
     background-image: url("ismd.jpg"); 
     background-size: cover;
+    
 }
 
 .container {
